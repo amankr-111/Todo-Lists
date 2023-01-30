@@ -64,7 +64,7 @@ const  deleteAll=()=>{
       <div className='child-div'>
 
         <figure>
-          <img src="./image./img.png"></img>
+          <img src="./image/todo.svg"></img>
           <figcaption>Add Your todos List</figcaption>
         </figure>
         <div className='addItems'>
